@@ -1,7 +1,6 @@
 package stack;
 
 import java.util.Arrays;
-import java.util.TooManyListenersException;
 
 public class stack1 {
     public int arr[];
